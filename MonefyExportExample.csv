@@ -1,0 +1,15 @@
+date,account,category,amount,currency,converted amount,currency,description
+01/11/2017,Cash,Hobbies ,-4.99,GBP,-4.99,GBP,"Maplin 3.5"" Adapter "
+01/11/2017,Cash,Food,-4.5,GBP,-4.5,GBP,Subway lunch
+01/11/2017,Cash,Hobbies ,-2,GBP,-2,GBP,Monefy Pro
+01/11/2017,Cash,Deposits,"1,000",GBP,"1,000",GBP,Monthly Budget
+01/11/2017,Cash,Car,-316.67,GBP,-316.67,GBP,Insurance Policy Update
+02/11/2017,Cash,Car,-30,GBP,-30,GBP,Annual Tax
+03/11/2017,Cash,Entertainment,-3.8,GBP,-3.8,GBP,Richard's G&T
+04/11/2017,Cash,Eating out,-4.89,GBP,-4.89,GBP,McDonald's
+04/11/2017,Cash,Entertainment,-7,GBP,-7,GBP,Beers
+04/11/2017,Cash,Entertainment,-5,GBP,-5,GBP,Beer
+04/11/2017,Cash,Food,-6.85,GBP,-6.85,GBP,Tesco
+04/11/2017,Cash,Entertainment,-57,GBP,-57,GBP,Travelodge
+04/11/2017,Cash,Food,-4,GBP,-4,GBP,Bonfire Burger
+05/11/2017,Cash,Food,-3,GBP,-3,GBP,Pizza 
